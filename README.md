@@ -1,2 +1,2 @@
-# AscendiaInternship
+# Ascendia Internship
 Java Internship
